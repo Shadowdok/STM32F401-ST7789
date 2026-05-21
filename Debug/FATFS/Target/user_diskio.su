@@ -1,0 +1,5 @@
+../FATFS/Target/user_diskio.c:24:9:SPI_Transmit	24	static
+../FATFS/Target/user_diskio.c:44:9:SD_SendCmd	24	static
+../FATFS/Target/user_diskio.c:76:9:USER_initialize	24	static
+../FATFS/Target/user_diskio.c:120:9:USER_status	16	static
+../FATFS/Target/user_diskio.c:124:9:USER_read	32	static

@@ -1,0 +1,10 @@
+../Core/Src/main.c:94:13:ST7789_WriteCommand	1
+../Core/Src/main.c:100:13:ST7789_SetWindow_Fast	1
+../Core/Src/main.c:125:6:DrawImageFromSD	6
+../Core/Src/main.c:175:5:main	2
+../Core/Src/main.c:257:6:SystemClock_Config	3
+../Core/Src/main.c:304:13:MX_SPI1_Init	2
+../Core/Src/main.c:342:13:MX_SPI2_Init	2
+../Core/Src/main.c:378:13:MX_DMA_Init	1
+../Core/Src/main.c:396:13:MX_GPIO_Init	1
+../Core/Src/main.c:441:6:Error_Handler	1

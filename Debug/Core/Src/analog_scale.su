@@ -1,0 +1,5 @@
+../Core/Src/analog_scale.c:36:13:map	24	static
+../Core/Src/analog_scale.c:48:6:plotNeedle	56	static
+../Core/Src/analog_scale.c:117:6:analogMeter	88	static
+../Core/Src/analog_scale.c:232:6:plotLinear	72	static
+../Core/Src/analog_scale.c:260:6:plotPointer	72	static
